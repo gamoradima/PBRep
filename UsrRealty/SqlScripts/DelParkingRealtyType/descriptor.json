@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "780be96f-c6db-3c9f-20ea-b8e589d4b756",
+    "Name": "DelParkingRealtyType",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1721827772000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
