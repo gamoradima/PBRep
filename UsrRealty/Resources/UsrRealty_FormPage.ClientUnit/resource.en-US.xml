@@ -7,7 +7,10 @@
 			<Item Name="LocalizableStrings.addRecord_dnahr3c_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_x9r3inz_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 10 sq m" />
+			<Item Name="LocalizableStrings.Button_jk0tq9o_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.Button_wfs4fua_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.CalculateAvgPriceMenuItem_caption.Value" Value="Calculate average price process" />
+			<Item Name="LocalizableStrings.MenuItem_497zthq_caption.Value" Value="Calculate average price process" />
 			<Item Name="LocalizableStrings.NumberInput_w1yl2uf_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 20.0" />
 		</Items>

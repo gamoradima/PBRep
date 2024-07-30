@@ -115,7 +115,7 @@ define("UsrRealty_ListPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 							}
 						},
 						"editable": {
-							"enable": false,
+							"enable": true,
 							"itemsCreation": false
 						}
 					},
