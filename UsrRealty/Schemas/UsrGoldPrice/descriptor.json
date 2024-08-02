@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0997f25b-ffdd-429d-b4f1-948c338ed4f7",
+    "Name": "UsrGoldPrice",
+    "ModifiedOnUtc": "\/Date(1722518840000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Gold price",
+    "DependsOn": []
+  }
+}

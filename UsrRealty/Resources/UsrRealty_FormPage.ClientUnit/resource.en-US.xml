@@ -18,6 +18,7 @@
 			<Item Name="LocalizableStrings.GridDetailSearchFilter_evalusx_placeholder.Value" Value="Search" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_zkuc8oh_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.MenuItem_497zthq_caption.Value" Value="Calculate average price process" />
+			<Item Name="LocalizableStrings.MenuItem_i4ttma2_caption.Value" Value="Run calc max price web service" />
 			<Item Name="LocalizableStrings.NumberInput_w1yl2uf_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 20.0" />
 		</Items>
